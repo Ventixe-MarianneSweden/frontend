@@ -1,0 +1,13 @@
+footer {
+    grid-area: footer;
+    background-color: var(--grey-20);
+    padding: 2rem;
+    border-radius: 14px;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+    color: var(--grey-80);
+     max-height: 80px;
+}
